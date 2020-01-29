@@ -1,6 +1,6 @@
 # TAR Prediction
 
-This repository contains files for the project TAR Predictor (TARP). TARP aims to c
+This repository contains files for the project TAR Predictor (TARP). 
 
 ## Table of Contents
 1. [Endgoal.md](#Endgoal)
