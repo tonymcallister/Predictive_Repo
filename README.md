@@ -1,4 +1,4 @@
-# TAR Prediction
+# TAR Predictor (TARP)
 
 This repository contains files for the project TAR Predictor (TARP). 
 
